@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #5D6D7E !important;
+}
+.container{
+    height: 350px;
+    width: 600px;
+    border: 2px solid red;
+    border-radius: 20px;
+    position: relative;
+    margin: auto;
+    top: 150px;
+    background-color: antiquewhite !important;
+}
+h3{
+    margin: auto;
+    position: relative;
+    left: 380px;
+    padding: 20px;
+}
+#body{
+    display: inline-block;
+    width: 800px;
+    
+}
+#image3{
+    width: 200px;
+    height: 200px;
+    float: right;
+    position: relative;
+    left: -20px;
+    top: -30px;
+}
